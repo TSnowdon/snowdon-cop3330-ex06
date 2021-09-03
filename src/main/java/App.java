@@ -6,7 +6,7 @@
 import java.util.Calendar;
 import java.util.Scanner;
 
-public class Main {
+public class App {
     public static void main(String[] args) {
         String firstInput;
         String secondInput;
